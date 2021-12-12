@@ -1,0 +1,15 @@
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\Second_task.exe
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\Second_task.deps.json
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\Second_task.runtimeconfig.json
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\Second_task.dll
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\ref\Second_task.dll
+D:\c#\Файлы\Second_task\Second_task\bin\Debug\net6.0\Second_task.pdb
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.csproj.AssemblyReference.cache
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.AssemblyInfoInputs.cache
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.AssemblyInfo.cs
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.csproj.CoreCompileInputs.cache
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.dll
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\ref\Second_task.dll
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.pdb
+D:\c#\Файлы\Second_task\Second_task\obj\Debug\net6.0\Second_task.genruntimeconfig.cache
